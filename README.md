@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RicardoPerezValls
-- 👀 I’m interested in Quantitative Macro and Finance
+- 👀 I’m interested in Quantitative Macro
 - 🌱 I’m currently learning Statistics
 - 💞️ I’m looking to collaborate on Quantitative Economics
 - 📫 How to reach me ripere02@ucm.es
